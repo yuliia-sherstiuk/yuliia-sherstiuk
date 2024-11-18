@@ -30,6 +30,7 @@
 1. **BloumPetals** : Site web responsive réalisé avec HTML et CSS.
    - [🔗 Lien vers le projet](https://github.com/nom_utilisateur/BloumPetals)
 
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=yuliia-sherstiuk&show_icons=true&theme=radical)
 
 
 Here are some ideas to get you started:
