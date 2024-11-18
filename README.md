@@ -45,6 +45,15 @@
 ✨ _Je suis motivée par des projets innovants et collaboratifs, et j’aspire à évoluer dans un environnement qui valorise la créativité et l’apprentissage continu._  
 🤝 **N’hésitez pas à me contacter pour toute collaboration ou opportunité professionnelle !**
 
+
+### 🔗 Liens utiles :
+- [LinkedIn](https://www.linkedin.com/in/%D1%8E%D0%BB%D0%B8%D1%8F-%D1%88%D0%B5%D1%80%D1%81%D1%82%D1%8E%D0%BA-bb45b3201/?trk=eml-email_network_conversations_01-header-0-profile_glimmer)
+- [Portfolio](https://www.instagram.com/3d.d_yuliia_sherstiuk/)
+fol
+
+
+
+
 ## 📊 Statistiques GitHub :
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=yuliia-sherstiuk&show_icons=true&theme=radical)
 
