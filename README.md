@@ -13,7 +13,12 @@
 
 ![Trophées GitHub](https://github.com/yuliia-sherstiuk/yuliia-sherstiuk)
 
+## 📊 Statistiques GitHub :
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=yuliia-sherstiuk&show_icons=true&theme=radical)
 
+![Langues principales](https://github-readme-stats.vercel.app/api/top-langs/?username=yuliia-sherstiuk&layout=compact&theme=radical)
+
+![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=yuliia-sherstiuk&theme=radical)
 
 <!--
 **yuliia-sherstiuk/yuliia-sherstiuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
