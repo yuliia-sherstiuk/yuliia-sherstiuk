@@ -26,6 +26,12 @@
 - **Autres** : Responsive design, UI/UX, systèmes immersifs
 
 
+## 🚀 Projets principaux
+1. **BloumPetals** : Site web responsive réalisé avec HTML et CSS.
+   - [🔗 Lien vers le projet](https://github.com/nom_utilisateur/BloumPetals)
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
