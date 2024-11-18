@@ -19,7 +19,8 @@
 ## 🔧 Technologies & Tools
 
 ![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
+![Blender](https://img.shields.io/badge/3D-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![Unity](https://img.shields.io/badge/Game%20Engine-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
 ![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
