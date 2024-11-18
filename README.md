@@ -16,6 +16,15 @@
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3)
 
+## 🔧 Technologies & Tools
+
+![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+
+![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+
+
 ![Trophées GitHub](https://github.com/yuliia-sherstiuk/yuliia-sherstiuk)
 
 ## 📊 Statistiques GitHub :
