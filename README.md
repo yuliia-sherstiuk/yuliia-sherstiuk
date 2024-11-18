@@ -31,18 +31,19 @@
 1. **BloumPetals**  
    - **Description** : Un site web responsive réalisé avec HTML et CSS.  
    - [🔗 Lien vers le projet](https://github.com/yuliia-sherstiuk/project)
-   - 
+       
 2. **mon_cv**  
    - **Description** : Un site web responsive réalisé avec HTML et CSS.  
    - [🔗 Lien vers le projet](https://github.com/yuliia-sherstiuk/job1)
-  
-3. **Fansite**  
+     
+  3. **Fansite**  
    - **Description** : Un site web responsive réalisé avec HTML et CSS.  
    - [🔗 Lien vers le projet](https://github.com/yuliia-sherstiuk/Fansite)
-   - 
-   -
-   -       - 
 
+
+     
+✨ _Je suis motivée par des projets innovants et collaboratifs, et j’aspire à évoluer dans un environnement qui valorise la créativité et l’apprentissage continu._  
+🤝 **N’hésitez pas à me contacter pour toute collaboration ou opportunité professionnelle !**
 
 ## 📊 Statistiques GitHub :
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=yuliia-sherstiuk&show_icons=true&theme=radical)
