@@ -26,7 +26,9 @@
 
 
 
-![Trophées GitHub](https://github.com/yuliia-sherstiuk/yuliia-sherstiuk)
+## 🏆 GitHub Trophies
+
+![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=yuliia-sherstiuk&theme=radical&no-frame=true&margin-w=15)
 
 ### 🚀 Projets principaux :
 1. **BloumPetals**  
