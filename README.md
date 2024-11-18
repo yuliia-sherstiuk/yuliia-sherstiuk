@@ -7,7 +7,14 @@
 - 💻 Passionné par le développement web, les systèmes immersifs et l’IA.
 - 🌟 je suis à la recherche d’une alternance à Marseille ou Aix-en-Provence dans les domaines du web ou des technologies immersives.
 
-
+- 🔭 Je travaille actuellement sur 
+- 🌱 J'apprends **le développement web, ** à La Plateforme.  
+- 👯 Je cherche à collaborer sur **des projets de développement web, d'applications immersives ou de médias numériques créatifs.**  
+- 🤔 J’ai besoin d’aide pour **trouver une alternance ou un stage dans le développement web ou les systèmes immersifs à Marseille ou Aix-en-Provence.**  
+- 💬 Demandez-moi à propos de **HTML, CSS, design adaptatif et concepts de technologies créatives.**  
+- 📫 Comment me contacter : **[Insérez votre moyen de contact préféré ici].**  
+- 😄 Pronoms : **Elle.**  
+- ⚡ Fun fact : **Je suis végétarienne et j'adore explorer comment la technologie peut lier créativité et innovation !**  
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3)
 
@@ -37,14 +44,9 @@
 
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=yuliia-sherstiuk&show_icons=true&theme=radical)
 
-- 🔭 Je travaille actuellement sur 
-- 🌱 J'apprends **le développement web, ** à La Plateforme.  
-- 👯 Je cherche à collaborer sur **des projets de développement web, d'applications immersives ou de médias numériques créatifs.**  
-- 🤔 J’ai besoin d’aide pour **trouver une alternance ou un stage dans le développement web ou les systèmes immersifs à Marseille ou Aix-en-Provence.**  
-- 💬 Demandez-moi à propos de **HTML, CSS, design adaptatif et concepts de technologies créatives.**  
-- 📫 Comment me contacter : **[Insérez votre moyen de contact préféré ici].**  
-- 😄 Pronoms : **Elle.**  
-- ⚡ Fun fact : **Je suis végétarienne et j'adore explorer comment la technologie peut lier créativité et innovation !**  
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
