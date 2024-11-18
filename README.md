@@ -27,6 +27,23 @@
 
 ![Trophées GitHub](https://github.com/yuliia-sherstiuk/yuliia-sherstiuk)
 
+### 🚀 Projets principaux :
+1. **BloumPetals**  
+   - **Description** : Un site web responsive réalisé avec HTML et CSS.  
+   - [🔗 Lien vers le projet](https://github.com/yuliia-sherstiuk/project)
+   - 
+2. **mon_cv**  
+   - **Description** : Un site web responsive réalisé avec HTML et CSS.  
+   - [🔗 Lien vers le projet](https://github.com/yuliia-sherstiuk/job1)
+  
+3. **Fansite**  
+   - **Description** : Un site web responsive réalisé avec HTML et CSS.  
+   - [🔗 Lien vers le projet](https://github.com/yuliia-sherstiuk/Fansite)
+   - 
+   -
+   -       - 
+
+
 ## 📊 Statistiques GitHub :
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=yuliia-sherstiuk&show_icons=true&theme=radical)
 
