@@ -26,9 +26,6 @@
 
 
 
-## 🏆 GitHub Trophies
-
-![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=yuliia-sherstiuk&theme=radical&no-frame=true&margin-w=15)
 
 ### 🚀 Projets principaux :
 1. **BloumPetals**  
@@ -62,7 +59,10 @@ fol
 
 ![Langues principales](https://github-readme-stats.vercel.app/api/top-langs/?username=yuliia-sherstiuk&layout=compact&theme=radical)
 
-![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=yuliia-sherstiuk&theme=radical)
+## 🏆 GitHub Trophies
+
+![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=yuliia-sherstiuk&theme=radical&no-frame=true&margin-w=15)
+
 
 <!--
 **yuliia-sherstiuk/yuliia-sherstiuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
