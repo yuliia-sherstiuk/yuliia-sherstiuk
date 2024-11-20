@@ -20,11 +20,11 @@ I have completed various courses and am now delving into web development, video 
 
 
 
-**💻 Système d'exploitation**
+**💻 Système d'exploitation** :
 ![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/OS-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
-**🔧 Technologies & Tools**
+**🔧 Technologies & Tools** :
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3)
 ![VMware](https://img.shields.io/badge/Virtualization-VMware-607078?style=flat-square&logo=vmware&logoColor=white)
