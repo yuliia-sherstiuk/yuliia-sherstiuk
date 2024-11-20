@@ -2,11 +2,16 @@
 ![développement web, les systèmes immersifs et l’IA](https://github.com/user-attachments/assets/3928e037-fe75-4c7d-8cec-2d0cb7860db9)
 
 
-## Bonjour! je suis Yuliia SHERSTIUK 👋
+## Greetings! I am Yuliia SHERSTIUK 👋
+ I am deeply passionate about technology and computer science. I enjoy exploring modern innovations, programming, working with data, and creating impactful solutions.
+I have completed various courses and am now delving into web development, video games, and immersive systems.
+
 - 🎓 Étudiant en développement web à  [La Plateforme](https://laplateforme.io).
-- 💻 Passionné par le développement web, les systèmes immersifs et l’IA.
-- 🌟 je suis à la recherche d’une alternance à Marseille ou Aix-en-Provence dans les domaines du web ou des technologies immersives.
-- 🤔 J’ai besoin d’aide pour **trouver une alternance ou un stage dans le développement web ou les systèmes immersifs à Marseille ou Aix-en-Provence.**  
+- 📜 Certifications include:
+    * Michigan State University: Introduction to Game Development (October 28, 2020).
+    * University of Colorado: Graphic Design (November 7, 2020).
+- 💻 Passionné par le développement web, les systèmes immersifs et  video games.
+- 🌟 je suis à la recherche d’une alternance à Marseille ou Aix-en-Provence dans les domaines du web ou des technologies immersives. 
 - 💬 Demandez-moi à propos de **HTML, CSS, design adaptatif et concepts de technologies créatives.**  
 - 📫 Comment me contacter : **[Insérez votre moyen de contact préféré ici].**  
 - 😄 Pronoms : **Elle.**  
