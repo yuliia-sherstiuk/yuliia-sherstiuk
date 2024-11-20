@@ -18,17 +18,24 @@ I have completed various courses and am now delving into web development, video 
 -  
 
 
-## 🔧 Technologies & Tools
 
 
+**💻 Système d'exploitation**
 ![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![GitHub](https://img.shields.io/badge/Version%20Control-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Windows](https://img.shields.io/badge/OS-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+
+**🔧 Technologies & Tools**
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3)
+![VMware](https://img.shields.io/badge/Virtualization-VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+![GitHub](https://img.shields.io/badge/Version%20Control-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Blender](https://img.shields.io/badge/3D-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 ![Unity](https://img.shields.io/badge/Game%20Engine-Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Design-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Design-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Design-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Git Bash](https://img.shields.io/badge/Terminal-Git%20Bash-4EAA25?style=flat-square&logo=git&logoColor=white)
 
-![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 
 
