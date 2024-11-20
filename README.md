@@ -10,18 +10,21 @@ I have completed various courses and am now delving into web development, video 
 - 📜 Certifications include:
     * Michigan State University: Introduction to Game Development (October 28, 2020).
     * University of Colorado: Graphic Design (November 7, 2020).
-- 💻 Passionné par le développement web, les systèmes immersifs et  video games.
+
 - 🌟 je suis à la recherche d’une alternance à Marseille ou Aix-en-Provence dans les domaines du web ou des technologies immersives. 
 - 💬 Demandez-moi à propos de **HTML, CSS, design adaptatif et concepts de technologies créatives.**    
 - ⚡ Fun fact : **Je suis végétarienne et j'adore explorer comment la technologie peut lier créativité et innovation !**
 
 -  
-![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3)
+
 
 ## 🔧 Technologies & Tools
 
+
 ![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/Version%20Control-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3)
 ![Blender](https://img.shields.io/badge/3D-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 ![Unity](https://img.shields.io/badge/Game%20Engine-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
