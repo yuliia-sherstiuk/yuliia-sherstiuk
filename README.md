@@ -12,9 +12,7 @@ I have completed various courses and am now delving into web development, video 
     * University of Colorado: Graphic Design (November 7, 2020).
 - 💻 Passionné par le développement web, les systèmes immersifs et  video games.
 - 🌟 je suis à la recherche d’une alternance à Marseille ou Aix-en-Provence dans les domaines du web ou des technologies immersives. 
-- 💬 Demandez-moi à propos de **HTML, CSS, design adaptatif et concepts de technologies créatives.**  
-- 📫 Comment me contacter : **[Insérez votre moyen de contact préféré ici].**  
-- 😄 Pronoms : **Elle.**  
+- 💬 Demandez-moi à propos de **HTML, CSS, design adaptatif et concepts de technologies créatives.**    
 - ⚡ Fun fact : **Je suis végétarienne et j'adore explorer comment la technologie peut lier créativité et innovation !**
 
 -  
