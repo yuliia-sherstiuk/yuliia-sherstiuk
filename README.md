@@ -2,9 +2,10 @@
 ![développement web, les systèmes immersifs et l’IA](https://github.com/user-attachments/assets/3928e037-fe75-4c7d-8cec-2d0cb7860db9)
 
 
-## Greetings! I am Yuliia SHERSTIUK 👋
- I am deeply passionate about technology and computer science. I enjoy exploring modern innovations, programming, working with data, and creating impactful solutions.
-I have completed various courses and am now delving into web development, video games, and immersive systems.
+## Bonjour ! Je m'appelle Yuliia SHERSTIUK  👋
+Je suis profondément passionnée par la technologie et l'informatique. J'aime explorer les innovations modernes, la programmation, le travail avec les données et la création de solutions impactantes.
+J'ai suivi divers cours et je me plonge actuellement dans les domaines du développement web, des jeux vidéo et des systèmes immersifs. 
+
 
 - 🎓 Étudiant en développement web à  [La Plateforme](https://laplateforme.io).
 - 📜 Certifications include:
