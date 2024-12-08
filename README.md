@@ -48,13 +48,13 @@ J'ai suivi divers cours et je me plonge actuellement dans les domaines du dével
    - **Description** : Un site web responsive réalisé avec HTML et CSS.  
    - [🔗 Lien vers le projet](https://github.com/yuliia-sherstiuk/project)
        
-2. **mon_cv**  
+2. **Portfolio**  
    - **Description** : Un site web responsive réalisé avec HTML et CSS.  
-   - [🔗 Lien vers le projet](https://github.com/yuliia-sherstiuk/job1)
+   - [🔗 Lien vers le projet](https://github.com/yuliia-sherstiuk/Portfolio)
      
   3. **Fansite**  
    - **Description** : Un site web responsive réalisé avec HTML et CSS.  
-   - [🔗 Lien vers le projet](https://github.com/yuliia-sherstiuk/Fansite)
+   - [🔗 Lien vers le projet](https://github.com/yuliia-sherstiuk/Fansite-M.Jackson)
 
 
      
