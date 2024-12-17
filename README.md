@@ -1,5 +1,6 @@
 
-![développement web, les systèmes immersifs et l’IA](https://github.com/user-attachments/assets/3928e037-fe75-4c7d-8cec-2d0cb7860db9)
+![développement web, les systèmes immersifs et l’IA][image_6487327](https://github.com/user-attachments/assets/4c58d747-5b47-4dc6-90a2-89b9f52e5d30)
+
 
 
 ## Bonjour ! Je m'appelle Yuliia SHERSTIUK  👋
