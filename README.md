@@ -45,15 +45,15 @@ J'ai suivi divers cours et je me plonge actuellement dans les domaines du dével
 
 ### 🚀 Projets principaux :
 1. **BloumPetals**  
-   - **Description** : Un site web responsive réalisé avec HTML et CSS.  
+   - **Description** : «Morpion», un jeu développé en Python.  
    - [🔗 Lien vers le projet](https://github.com/yuliia-sherstiuk/project)
        
 2. **Portfolio**  
-   - **Description** : Un site web responsive réalisé avec HTML et CSS.  
+   - **Description** : Un site web responsive réalisé avec HTML, CSS et Javascript.  
    - [🔗 Lien vers le projet](https://github.com/yuliia-sherstiuk/Portfolio/)
      
   3. **Fansite**  
-   - **Description** : Un site web responsive réalisé avec HTML et CSS.  
+   - **Description** : Un site web responsive réalisé avecHTML, CSS et Javascript. 
    - [🔗 Lien vers le projet](https://yuliia-sherstiuk.github.io/Fansite-M.Jackson/)
 
 
