@@ -46,11 +46,11 @@ J'ai suivi divers cours et je me plonge actuellement dans les domaines du dével
 ### 🚀 Projets principaux :
 1. **BloumPetals**  
    - **Description** : «Morpion», un jeu développé en Python.  
-   - [🔗 Lien vers le projet](https://github.com/yuliia-sherstiuk/project)
+   - [🔗 Lien vers le projet](https://github.com/yuliia-sherstiuk/jeu_de_morpion)
        
 2. **Portfolio**  
    - **Description** : Un site web responsive réalisé avec HTML, CSS et Javascript.  
-   - [🔗 Lien vers le projet](https://github.com/yuliia-sherstiuk/Portfolio/)
+   - [🔗 Lien vers le projet](https://yuliia-sherstiuk.github.io/Portfolio/)
      
   3. **Fansite**  
    - **Description** : Un site web responsive réalisé avecHTML, CSS et Javascript. 
