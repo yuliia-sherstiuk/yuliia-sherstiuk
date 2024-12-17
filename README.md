@@ -4,7 +4,7 @@
 
 ## Bonjour ! Je m'appelle Yuliia SHERSTIUK  👋
 Je suis profondément passionnée par la technologie et l'informatique. J'aime explorer les innovations modernes, la programmation, le travail avec les données et la création de solutions impactantes.
-J'ai suivi divers cours et je me plonge actuellement dans les domaines du développement web, des jeux vidéo et des systèmes immersifs. 
+J'ai suivi divers cours et je me plonge actuellement dans les domaines du développement  des jeux vidéo et des systèmes immersifs. 
 
 
 - 🎓 Étudiant en développement web à  [La Plateforme](https://laplateforme.io).
