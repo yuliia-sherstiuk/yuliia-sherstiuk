@@ -1,5 +1,6 @@
 
-![développement web, les systèmes immersifs et l’IA][image_6487327](https://github.com/user-attachments/assets/4c58d747-5b47-4dc6-90a2-89b9f52e5d30)
+
+![image_6487327](https://github.com/user-attachments/assets/22b736f5-2ebd-4290-8c15-4530349bf01c)
 
 
 
