@@ -1,6 +1,7 @@
 
 
-![image_6487327](https://github.com/user-attachments/assets/22b736f5-2ebd-4290-8c15-4530349bf01c)
+![developpement-industrie-jeux-video](https://github.com/user-attachments/assets/3a21d623-5368-41e7-bff3-cad709cbadc2)
+
 
 
 
