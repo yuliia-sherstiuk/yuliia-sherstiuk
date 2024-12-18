@@ -1,9 +1,5 @@
 
-
-![developpement-industrie-jeux-video](https://github.com/user-attachments/assets/3a21d623-5368-41e7-bff3-cad709cbadc2)
-
-
-
+![Women-in-data-science](https://github.com/user-attachments/assets/f17da304-ac65-49a5-9cb5-2ade501be0ef)
 
 ## Bonjour ! Je m'appelle Yuliia SHERSTIUK  👋
 Je suis profondément passionnée par la technologie et l'informatique. J'aime explorer les innovations modernes, la programmation, le travail avec les données et la création de solutions impactantes.
