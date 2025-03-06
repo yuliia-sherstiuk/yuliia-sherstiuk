@@ -13,8 +13,8 @@ J'ai suivi divers cours et je me plonge actuellement dans les domaines du dével
 
 - 🌟Actuellement en formation en développement de jeux vidéo et systèmes immersifs à La Plateforme je suis à la recherche d’une alternance à Marseille ou Aix-en-Provence dans les domaines du web ou des technologies immersives. 
 
-- ⚡ Au cours de ma première année de formation, j'ai concentré mes études sur le développement avec Python, en mettant l'accent sur les algorithmes, la création d'applications interactives avec Pygame,
--  la programmation orientée objet. ’ai appris le HTML et le CSS, et j’ai créé mon portfolio ainsi que mon CV grâce à ces technologies.
+- ⚡ Au cours de ma première année de formation, j'ai concentré mes études sur le développement avec Python, en mettant l'accent sur les algorithmes,a programmation orientée objet.  la création d'applications interactives avec Pygame,
+-  j’ai appris le HTML et le CSS, et j’ai créé mon portfolio ainsi que mon CV grâce à ces technologies.
 
 Dans les années à venir, je me concentrerai sur le C/C++ pour l’optimisation de la programmation sous Linux et Windows, ainsi que sur les communications réseau et les interfaces. Je maîtriserai également le C# pour la programmation orientée objet et la gestion des états dans les jeux et applications. Je travaillerai avec Unity 3D et Unreal Engine pour concevoir des interfaces utilisateur, des animations et des systèmes physiques.
 
