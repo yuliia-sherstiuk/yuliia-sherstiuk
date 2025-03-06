@@ -18,7 +18,7 @@ J'ai suivi divers cours et je me plonge actuellement dans les domaines du dével
 
 Dans les années à venir, je me concentrerai sur le C/C++ pour l’optimisation de la programmation sous Linux et Windows, ainsi que sur les communications réseau et les interfaces. Je maîtriserai également le C# pour la programmation orientée objet et la gestion des états dans les jeux et applications. Je travaillerai avec Unity 3D et Unreal Engine pour concevoir des interfaces utilisateur, des animations et des systèmes physiques.
 
-En troisième année, je me spécialiserai en game design, UI/UX et technologies immersives comme la VR et l’AR. Je développerai aussi des moteurs de rendu graphique avec un accent sur l’optimisation des performances. Mon adaptabilité, ma créativité et mon sens du détail me permettront d’apporter une réelle valeur à votre équipe. Travailler dans votre entreprise serait pour moi une opportunité précieuse pour acquérir de l’expérience et participer à des projets passionnants.
+En troisième année, je me spécialiserai en game design, UI/UX et technologies immersives comme la VR et l’AR. Je développerai aussi des moteurs de rendu graphique avec un accent sur l’optimisation des performances. 
 
 
 
