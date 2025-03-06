@@ -11,11 +11,14 @@ J'ai suivi divers cours et je me plonge actuellement dans les domaines du dével
     * Michigan State University: Introduction to Game Development (October 28, 2020).
     * University of Colorado: Graphic Design (November 7, 2020).
 
-- 🌟 je suis à la recherche d’une alternance à Marseille ou Aix-en-Provence dans les domaines du web ou des technologies immersives. 
-- 💬 Demandez-moi à propos de **HTML, CSS, design adaptatif et concepts de technologies créatives.**    
-- ⚡ Fun fact : **Je suis végétarienne et j'adore explorer comment la technologie peut lier créativité et innovation !**
+- 🌟Actuellement en formation en développement de jeux vidéo et systèmes immersifs à La Plateforme je suis à la recherche d’une alternance à Marseille ou Aix-en-Provence dans les domaines du web ou des technologies immersives. 
 
-   
+- ⚡ Au cours de ma première année de formation, j'ai concentré mes études sur le développement avec Python, en mettant l'accent sur les algorithmes, la création d'applications interactives avec Pygame,
+-  la programmation orientée objet. ’ai appris le HTML et le CSS, et j’ai créé mon portfolio ainsi que mon CV grâce à ces technologies.
+
+Dans les années à venir, je me concentrerai sur le C/C++ pour l’optimisation de la programmation sous Linux et Windows, ainsi que sur les communications réseau et les interfaces. Je maîtriserai également le C# pour la programmation orientée objet et la gestion des états dans les jeux et applications. Je travaillerai avec Unity 3D et Unreal Engine pour concevoir des interfaces utilisateur, des animations et des systèmes physiques.
+
+En troisième année, je me spécialiserai en game design, UI/UX et technologies immersives comme la VR et l’AR. Je développerai aussi des moteurs de rendu graphique avec un accent sur l’optimisation des performances. Mon adaptabilité, ma créativité et mon sens du détail me permettront d’apporter une réelle valeur à votre équipe. Travailler dans votre entreprise serait pour moi une opportunité précieuse pour acquérir de l’expérience et participer à des projets passionnants.
 
 
 
@@ -41,21 +44,18 @@ J'ai suivi divers cours et je me plonge actuellement dans les domaines du dével
 ![Git Bash](https://img.shields.io/badge/Terminal-Git%20Bash-4EAA25?style=flat-square&logo=git&logoColor=white)
 
 
-
-
-
 ### 🚀 Projets principaux :
-1. **BloumPetals**  
-   - **Description** : «Morpion», un jeu développé en Python.  
-   - [🔗 Lien vers le projet](https://github.com/yuliia-sherstiuk/jeu_de_morpion)
+1. **LE PENDU** 
+   - **Description** : «LE- PENDU», un jeu développé en Python.  
+   - [🔗 [Lien vers le projet](https://github.com/yuliia-sherstiuk/jeu_de_morpion](https://github.com/yuliia-sherstiuk/Le-pendu)
        
-2. **Portfolio**  
-   - **Description** : Un site web responsive réalisé avec HTML, CSS et Javascript.  
-   - [🔗 Lien vers le projet](https://yuliia-sherstiuk.github.io/Portfolio/)
+2. **Jeu Pokémon**  
+   - **Description** : Programmation orientée objet & MVC.  
+   - [🔗 [Lien vers le projet](https://yuliia-sherstiuk.github.io/Portfolio/](https://github.com/jolyne-mangeot/obsidian_fighters)
      
-  3. **Fansite**  
-   - **Description** : Un site web responsive réalisé avecHTML, CSS et Javascript. 
-   - [🔗 Lien vers le projet](https://yuliia-sherstiuk.github.io/Fansite-M.Jackson/)
+  3. **Fruit-ninja**  
+   - **Description** : POO (héritage), algorithmique et interface graphique 
+   - [🔗 Lien vers le projet]([https://yuliia-sherstiuk.github.io/Fansite-M.Jackson/](https://github.com/eltigani-abdallah/fruit-ninja)
 
 
      
@@ -86,17 +86,12 @@ fol
 
 
 ### 🛠️ Compétences principales :
-- **Langages** : HTML | CSS | JavaScript
+- **Langages** :  PYTHON | C++ |  HTML | CSS | JavaScript 
 - **Frameworks** : Bootstrap | React (en apprentissage)
 - **Outils** : Git | GitHub | VS Code
 - **Autres** : Responsive design, UI/UX, systèmes immersifs
 
 
-## 🚀 Projets principaux
-1. **BloumPetals** : Site web responsive réalisé avec HTML et CSS.
-   - [🔗 Lien vers le projet](https://github.com/nom_utilisateur/BloumPetals)
-
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=yuliia-sherstiuk&show_icons=true&theme=radical)
 
 
 
